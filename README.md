@@ -1,8 +1,2 @@
 # Machine-Learning
-Homework from the course Machine Learning, Sapienza Univerisity of Rome.
-
-## Homework 1
-Final score 2/2 points
-
-## Homework 2
-Final score 2/2 points
+Homeworks from the course Machine Learning 2021-2022 held by professor Luca Iocchi, Sapienza University of Rome.
